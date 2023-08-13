@@ -12,10 +12,10 @@ features:
 9. Clean UI- Material UI
 
 TechStack:
-Backend: Node.js and Express.js
-Frontend: React.js along with Redux
-UI-Library: Material-UI
-DB: MongoDB-Atlas (Cloud)
+Backend (Node.js and Express.js), 
+Frontend (React.js along with Redux), 
+UI-Library (Material-UI), 
+DB (MongoDB-Atlas)
 
 
 ![Screenshot 2023-08-14 020609](https://github.com/AbhinavNaman/Memories/assets/93396109/0934a3e1-fa69-4475-a568-8f544519bf52)
